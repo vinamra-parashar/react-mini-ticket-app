@@ -52,15 +52,7 @@ Potential search enhancements:
 
 ## 5. What did you Google or use GPT for?
 
-- **React Documentation**: For hooks API and best practices
-- **MDN Web Docs**: For CSS and JavaScript references
-- **Stack Overflow**: For specific error resolutions
-- **Vite Documentation**: For build configuration
-- **CSS-Tricks**: For modern CSS techniques
-- **GitHub Issues**: For dependency-related solutions
-
-No AI tools were used in the development of this application.
-
+- I have used Windsurf AI Editor with SWE-1 (free limited time) model to generate the code for the application.
 
 ## Debugging the TicketCounter
 
